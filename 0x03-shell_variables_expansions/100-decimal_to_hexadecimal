@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "isbase=10;obase=16 $DECIMAL" | bc
